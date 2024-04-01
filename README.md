@@ -44,5 +44,14 @@
 - Đưa ra được biểu thức dạng tường minh của xác suất dừng hệ thống (OP) qua kênh truyền Rayleigh.
 - Hiệu năng của hệ thống đề xuất có thể được cải thiện bằng cách tăng số lượng ăng-ten, tăng số lượng thiết bị đầu cuối hoặc giảm khoảng cách giữa trạm phát đến bộ gom và giữa trạm phát đến các thiết bị đầu cuối.
 
+## Hướng dẫn chạy mô phỏng 
+- Bỏ tất cả các file code vào cùng một thư mục. Mở thư mục bằng phần mềm MATLAB, nhấn Run để chạy chương trình.
+- Chạy file main.m sẽ hiển thị kết quả mô phỏng của Hình 4.2: Xác suất dừng hệ thống theo SNR phát trung bình và số ăng-ten K với b = 0 và Hình 4.3: Xác suất dừng hệ thống theo SNR phát trung bình và số ăng-ten K với b = 1.
+- Chạy file main1.m sẽ hiển thị kết quả mô phỏng của Hình 4.4: Xác suất dừng hệ thống theo SNR phát trung bình và số thiết bị đầu cuối N với b = 0 và Hình 4.5: Xác suất dừng hệ thống theo SNR phát trung bình và số thiết bị đầu cuối N với b = 1.
+- Chạy file main2.m sẽ hiển thị kết quả mô phỏng của Hình 4.6:  Xác suất dừng hệ thống theo khoảng cách từ trạm vô tuyến đến cụm trưởng (d0) và số thiết bị đầu cuối N với b = 1 và Hình 4.9: Xác suất dừng hệ thống theo khoảng cách giữa trạm vô tuyến đến bộ gom (d2) và số thiết bị đầu cuối N với b = 0.
+- Chạy file main3.m sẽ hiển thị kết quả mô phỏng của Hình 4.7: Xác suất dừng hệ thống theo khoảng cách giữa cụm trưởng đến bộ gom (d1) và số thiết bị đầu cuối N với b = 1.
+- Chạy file main4.m sẽ hiển thị kết quả mô phỏng của Hình 4.8: Xác suất dừng hệ thống theo khoảng cách giữa cụm trưởng đến bộ gom (d1) và số lượng ăng-ten bộ gom với b = 1 và Hình 4.10: Xác suất dừng hệ thống theo khoảng cách giữa trạm vô tuyến đến bộ gom (d2) và số lượng ăng-ten của bộ gom với b = 0.
+- Chạy file main5.m sẽ hiển thị kết quả mô phỏng của Hình 4.11: Xác suất dừng hệ thống theo SNR phát trung bình giữa b = 0 và b = 1.
+
 ## Liên Hệ
 - Email: danthuanmq123@gmail.com
